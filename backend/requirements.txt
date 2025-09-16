@@ -1,0 +1,6 @@
+Flask
+librosa
+dtw-python
+gradio_client
+cassandra-driver[gevent]
+numpy
